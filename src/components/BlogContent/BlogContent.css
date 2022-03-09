@@ -1,0 +1,19 @@
+/* .gridItem{
+    background-color: rgb(212, 212, 255);
+  }
+  .gridItem1{
+    background-color: rgb(204, 161, 243);
+  } */
+
+  .blackbtn{
+    cursor: pointer;
+    padding: 5px 15px;
+    font-size: 16px;
+    padding: 10px
+    border-radius 8px;
+    background-color: rgb(28, 18, 34);
+    color:white;
+  }
+  .blackbtn:hover {
+    background-color: rgba(38, 0, 48, 0.8);
+  }
